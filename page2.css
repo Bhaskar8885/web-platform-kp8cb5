@@ -1,0 +1,16 @@
+.whitehoues-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.content-container {
+  width: 70%;
+  color: #0a2458;
+}
+
+.heading {
+  text-decoration: underline;
+  text-align: left;
+}
